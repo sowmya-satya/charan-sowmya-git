@@ -1,3 +1,2 @@
 test this file for staging
-conflicting
 
