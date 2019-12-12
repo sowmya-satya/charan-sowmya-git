@@ -1,0 +1,13 @@
+This is my first text file 
+
+
+Hi Sowmya
+Hi Jyothi
+Hi Vineela
+Hi Kalyan
+Hi Bhasker
+Hi Pawan
+
+
+this is merge conflict
+
