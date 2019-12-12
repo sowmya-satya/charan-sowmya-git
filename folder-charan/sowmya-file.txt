@@ -1,0 +1,3 @@
+This is a sample text file
+Its name is file-1.txt
+Its located in folder-charan directory in local-repo-1
