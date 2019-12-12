@@ -1,2 +1,2 @@
 This is my first text file 
-
+this is merge conflict
